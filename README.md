@@ -62,3 +62,12 @@ database management, and user authentication systems.
 ** CopyRights **
 <img width="1142" height="418" alt="Screenshot 2026-01-31 234038" src="https://github.com/user-attachments/assets/2f9806b7-4e74-4478-b15e-43ec72695983" />
 
+
+**Steps To Run The Project**
+   * Install the XAMPP Control Panel For Running the PHP
+   * Open the localhost php my admin (http://localhost/phpmyadmin/)
+   * Create the database name it as accessories_hub
+   * Put the project folder in xampp folder in htdocs
+   * Upload the project sql file in it from import
+   * Open Browser type the (http://localhost/accessories_hub/)
+     
